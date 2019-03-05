@@ -1,0 +1,27 @@
+{
+  "name": "grunt-demo01",
+  "version": "1.0.0",
+  "description": "grunt-demo",
+  "main": "gruntfile.js",
+  "dependencies": {
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-less": "^0.1.7"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-htmlhint": "^0.9.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wubin666/grunt-demo01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wubin666/grunt-demo01/issues"
+  },
+  "homepage": "https://github.com/wubin666/grunt-demo01#readme"
+}
